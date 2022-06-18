@@ -17,3 +17,21 @@ export const buttonSize={
     blockFull:"w-1/2 py-3 text-2xl text-center",
 }
 
+
+export const heroType={
+    primary:"bg-blue-500",
+    danger:"bg-red-500",
+    success:"bg-green-500",
+    warning:"bg-yellow-500",
+}
+
+
+export const heroSize={
+    default:"px-24",
+    small:"px-24 py-24",
+    medium:"px-32 py-32",
+    large:"px-32 py-48",
+    halfHeight:"px-32 py-64",
+    fullHeight:"h-screen",
+
+}
